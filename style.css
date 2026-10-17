@@ -88,7 +88,7 @@ section p{
 
 /*Responsividade*/
 @media (max-width: 700px){
-    .curriculo{
+    #curriculo{
         flex-direction: column;
     }
     .lateral, .conteudo{
